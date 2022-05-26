@@ -1,1 +1,27 @@
 # vous êtes un employé du magasin 
+#chemine
+Bonjour mademoiselle, qu'est-ce que je peux vous aider ?
+
+Ah oui, quel est son problème ?
+
+Je suis désolé, notre magasin est à court de ce type de <  >.
+
+Bien sûr, mais apportez-vous le facture ?
+
+Bon, quelle est votre préférence de vêtement ?
+
+Nous avons une meilleure collection de l'été (l'hiver)
+
+Oui, le cabin est à droite de la caisse.
+
+Vous êtes magnifique. Ça coûte seulement 1000$ pour un(e) <> de la collection fameux. Vous voulez de payer par carte de banque ou en espèce ?
+
+Suivez-moi svp. Ici, nous avons des vêtements bon marché. Qu'est ce que vous pensez à ce(tte) <>.
+
+Ça coûte 20$. Vous préférez payer par la carte de banque ou en espèce ?
+
+Et voulez-vous l'avoir emballé ?
+
+Comme vous êtes ici, pourquoi n’achetez-vous pas des autres ?
+
+Je vous remercie pour choisir <ten cua hang> .
